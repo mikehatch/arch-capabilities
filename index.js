@@ -1,11 +1,14 @@
 var neo4j = require('neo4j-driver');
 
-//var graphenedbURL = process.env.GRAPHENEDB_BOLT_URL;
-var graphenedbURL = "bolt://0.0.0.0:7475"; 
+var graphenedbURL = process.env.GRAPHENEDB_BOLT_URL;
 var graphenedbUser = process.env.GRAPHENEDB_BOLT_USER;
 var graphenedbPass = process.env.GRAPHENEDB_BOLT_PASSWORD;
 console.log(graphenedbURL);
-var driver = neo4j.driver(graphenedbURL, neo4j.auth.basic(graphenedbUser, graphenedbPass));
+var driver = neo4j.driver(
+    graphenedbURL, 
+    neo4j.auth.basic(graphenedbUser, graphenedbPass),
+    { encrypted : true}
+    );
 
 var session = driver.session();
 
