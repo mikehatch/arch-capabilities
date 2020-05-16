@@ -1,7 +1,7 @@
 var neo4j = require('neo4j-driver');
 
 //var graphenedbURL = process.env.GRAPHENEDB_BOLT_URL;
-var graphenedbURL = "bolt://localhost:7475"; 
+var graphenedbURL = "bolt://0.0.0.0:7475"; 
 var graphenedbUser = process.env.GRAPHENEDB_BOLT_USER;
 var graphenedbPass = process.env.GRAPHENEDB_BOLT_PASSWORD;
 console.log(graphenedbURL);
