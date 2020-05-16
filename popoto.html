@@ -70,18 +70,22 @@
     // Define the list of label provider to customize the graph behavior:
     // Only two labels are used in Neo4j movie graph example: "Movie" and "Person"
     popoto.provider.node.Provider = {
-        "Movie": {
-            "returnAttributes": ["title", "released", "tagline"],
-            "constraintAttribute": "title"
+        "Capability": {
+            "returnAttributes": ["name", "description", "source"],
+            "constraintAttribute": "name"
         },
-        "Person": {
-            "returnAttributes": ["name", "born"],
+        "Process": {
+            "returnAttributes": ["name"],
+            "constraintAttribute": "name"
+        },
+        "Industry": {
+            "returnAttributes": ["name"],
             "constraintAttribute": "name"
         }
     };
 
     // Start the generation using parameter as root label of the query.
-    popoto.start("Person");
+    popoto.start("Industry");
 
 </script>
 </body>
