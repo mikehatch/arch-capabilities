@@ -6,17 +6,17 @@ const PORT = process.env.PORT || 5000;
 var graphenedbURL = process.env.GRAPHENEDB_BOLT_URL;
 var graphenedbUser = process.env.GRAPHENEDB_BOLT_USER;
 var graphenedbPass = process.env.GRAPHENEDB_BOLT_PASSWORD;
-console.log(graphenedbURL);
 var driver = neo4j.driver(
     graphenedbURL, 
     neo4j.auth.basic(graphenedbUser, graphenedbPass),
     { encrypted : true}
     );
 
-var session = driver.session();
+//playing with popoto - doesn't use bolt driver
+//var session = driver.session();
 
 express()
-.use(express.static(path.join(__dirname, 'public')))
+.use(express.static(path.join(__dirname, '/')))
 .set('views', path.join(__dirname, 'views'))
 .get('/', (req,res) => res.render('pages/index'))
 .listen(PORT, () => console.log(`Listening on ${ PORT }`))
