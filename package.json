@@ -1,0 +1,15 @@
+{
+  "name": "arch-capabilities",
+  "version": "1.0.0",
+  "description": "A node app useing GrapheneDB on Heroku for managing architecture capabilities using a graph.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Mike Hatch",
+  "license": "ISC",
+  "dependencies": {
+    "neo4j-driver": "^4.0.2"
+  }
+}
