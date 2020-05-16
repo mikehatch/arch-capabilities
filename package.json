@@ -10,6 +10,9 @@
   "author": "Mike Hatch",
   "license": "ISC",
   "dependencies": {
-    "neo4j-driver": "^4.0.2"
+    "express": "^4.17.1",
+    "neo4j-driver": "^4.0.2",
+    "path": "^0.12.7",
+    "seraph": "^0.15.3"
   }
 }
