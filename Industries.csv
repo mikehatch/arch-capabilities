@@ -1,0 +1,426 @@
+uid,domain,industry_primary,industry_secondary,title
+ADMBCU,Mobile,Foundational,,Mobile Biometric Screening
+ADUAPZ,Returns,Manufacturing,Semiconductor,Return Material Management
+AFFNSU,Sales,Financial Services,Institutional Asset Management,Account Servicing
+AHCCXT,Pharma,Health Care,Life Sciences,HLS Pharma(Rx) - ManuFacturing
+AHMBXK,Banking,Financial Services,,Banking Needs Analysis
+HKNJJV,Sales,Communications,Media,Account Management
+ZCDQZK,Billing,Communications,Media,Billing Management (Billing Inquiries)
+AKVZTK,Commodity Portfolio Management,Energy - Utilities,,Commodity Trading
+ALWKUZ,Order,Core,,Promotions Management
+AMWLAE,Config Price Quote,Core,,Pricing Management
+AKMZWD,Marketing,Communications,Media,Campaigns & Journey Management
+AVHBEU,Medical Devices,Health Care,Life Sciences,Device Engineering
+AWEQBR,Order,Core,,Assisted Sales & Service
+AXHCFP,Mobile,Foundational,,Custom Mobile Extension (Mobile SDK)
+AXNMFK,Sales,Media,Communications,Sales Enablement
+AZHQBE,Planning Management,Energy - Utilities,,Rate Development
+BBNPRF,Procurement and Logistics Management,Energy - Utilities,,Supplier Management
+BBNZRP,Sales,Core,,Account Management
+BCDDPW,Service,Communications,Media,Case Management (Trouble Management)
+BDCWTJ,Insurance,Financial Services,,Insurance Application Management
+BHKUNL,Banking,Financial Services,,Product Processing
+BHSWHF,Banking,Financial Services,,Underwriting & Approval
+BHZEFD,Integration,Foundational,,Event Driven Messaging
+APXEXA,Service,Communications,Media,Case Teaming (Agent-Assisted Customer Service)
+BKXJMP,Pharma,Health Care,Life Sciences,Sales Operations
+BMCJUR,Data Management,Foundational,,Data Security
+BNRSMU,Field Service Management,Core,,Field Service Analysis and Planning
+AJSADF,Sales,Communications,Media,Contact Management
+BRHDMD,Config Price Quote,Core,,Proposal Management
+BRPZFK,Security,Foundational,,Recovery
+BSWCGQ,Delivery,Foundational,,External App Marketplace
+BSZQUU,Billing,Core,,Credit & Collections
+BTNAVY,Investment Banking & Markets,Financial Services,,Growth & Analytics
+BWSSJY,Mobile,Foundational,,Offline Sync
+BXANJQ,Sales,Media,Communications,Ad-Sales Partner Management
+BXTMLM,Security,Foundational,,Response Management
+BZEUWH,Medical Devices,Health Care,Life Sciences,Direct Field Sales [USE SALES CAPABILITY DOMAIN]
+CDCMPG,Field Service Management,Core,,RMA / Depot Repair
+CFMTPX,Partner Management,Supporting,,Partner Service Management
+CFXHWF,Common,Financial Services,,Action Plan Management
+CGADKX,Asset,Energy - Utilities,,Preventative Maintenance
+CGSVWL,Pharma,Health Care,Life Sciences,ReTail
+CGTUTZ,Artificial Intelligence,Foundational,,NLP & Sentiment Analysis
+CHWUWA,Finance,Manufacturing,Semiconductor,Product Cost Allocation
+CLPAWQ,Health Plans (Payer),Health Care,Life Sciences,Pricing and Quoting
+CNXZTM,Integration,Foundational,,Integration Orchestration
+CQDRVJ,Investment Banking & Markets,Financial Services,,"Client Coverage, Collaboration & Mapping"
+CSBNMG,UX_UI,Foundational,,Headless Components Support
+CTZJEQ,Operations Management,Energy - Utilities,,Commodity Storage Management
+CUZNWJ,Investment Banking & Markets,Financial Services,,Research Engagement
+CWVMDC,Production,Media,Communications,Production Management
+CXALRA,Health Plans (Payer),Health Care,Life Sciences,Claims Management
+BKTAAN,Sales,Communications,Media,Contract Lifecycle Management
+CYNWVT,Delivery,Foundational,,App Packaging
+CYZAXD,Artificial Intelligence,Foundational,,Machine Learning / Auto-ML
+CZDMBQ,Sales,Core,,Lead Management
+WHGVWE,Config Price Quote,Communications,Media,CPQ - Pricing Management
+DAVTQM,Marketing,Core,,Audience Segmentation & Activation
+DAZKAY,Banking,Financial Services,,Pricing & Profitability
+DCCTMJ,Integration,Foundational,,Managed File Transfer
+DDVCXH,Customer Programs Management,Energy - Utilities,,Program Governance & Compliance
+DGCMAD,Order,Core,,Commerce Self Service
+DHKUMB,Artificial Intelligence,Foundational,,Predictive Analytics / Intelligence
+VVGHUE,Config Price Quote,Communications,Media,CPQ - Quote Management
+DMNTSR,Service Management,Core,,Warranty Management
+DPQKWH,Mobile,Foundational,,Geo-location Services
+DPRHCP,Customer Programs Management,Energy - Utilities,,Program Design
+DUMADQ,Quality ,Manufacturing,Semiconductor,Quality Management
+DVZUPU,IoT,Foundational,,IoT Registry
+DXAFXQ,Sales,Core,,Sales Performance Management
+DXLAWG,Config Price Quote,Core,,Quote Management
+WXYDDB,Billing,Communications,Media,Credit & Collections (Receivable Management)
+DYUPBS,Wealth Management,Financial Services,,Wealth Planning
+SAHRGC,Sales,Communications,Media,Cross/Up Sell
+ECJGUT,Sales,Communications,Media,Door to Door and Mobile Sales
+EEZKWA,Common,Financial Services,,Book of Business Management
+EFJLZV,Investment Banking & Markets,Financial Services,,Trade & Service
+EMGSPR,Sales,Core,,Cross / Up-Sell Management (Sales)
+EPSRYA,Provider,Health Care,Life Sciences,Research & Innovation
+ESAPGC,Mobile,Foundational,,Mobile App Design & Configuration
+EXAXAT,Integration,Foundational,,Streaming Data Transfer
+EZQQXW,IoT,Foundational,,IoT Message Broker
+THMWVW,Order,Communications,Media,E-Commerce
+FAZSPX,Delivery,Foundational,,Version Control System (VCS)
+FCFDNX,Order,Core,,Order Management
+FEQATS,Integration,Foundational,,Tokenization
+FFCKXK,Data Management,Foundational,,Data Governance
+FFMDMW,Subscriptions,Media,Communications,Identity and Entitlements
+FHGWDD,Artificial Intelligence,Foundational,,Intelligent Chatbots
+FHGXAD,Wholesale Asset Management,Financial Services,,Advisor Management & Wholesaler Coverage
+FJBDFP,Sales,Media,Communications,Brand Licensing
+FJNGEX,Common,Media,Communications,Customer 360 Interactions
+FNGQFP,Compliance Management,Energy - Utilities,,Permit Management
+FNJXLC,Health Plans (Payer),Health Care,Life Sciences,Member Engagement
+FPTEJS,Billing,Core,,Revenue Recognition
+FQGLSU,IoT,Foundational,,IoT Device Auth/Auth
+FSAGTV,Support,Manufacturing,Semiconductor,Training/Certification
+FSDVXF,Common,Financial Services,,Know Your Customer (KYC) / Anti Money Laundering (AML)
+FXUUDK,Delivery,Foundational,,Command Line Interface (CLI) Automation
+FYDRVW,Operations Management,Energy - Utilities,,Load Management
+FZPCBQ,Health Plans (Payer),Health Care,Life Sciences,Appeals & Grievances 
+YQBHAK,Field Service Management,Communications,Media,Field Inventory & Replenishment Mgmt (Field Service)
+GAHEAK,Field Service Management,Core,,Install Base & Preventative Maintenance
+GATGAA,Product Management,Manufacturing,Semiconductor,Product Life Cycle Management
+GBCTTP,Wealth Management,Financial Services,,Trade Facilitation and Execution
+GBHMZJ,Planning Management,Energy - Utilities,,Weather Data Management
+GEGYXV,Procurement and Logistics Management,Energy - Utilities,,Logistics Strategy Management
+GETQUU,Partner Management,Supporting,,Partner Sales Management
+GGJPJK,Artificial Intelligence,Foundational,,OCR/Translation
+GGSGSH,Sales,Manufacturing,Semiconductor,Order Management
+GNAHZP,Delivery,Media,Communications,Distribution Processes
+GREDAT,Partner Management,Supporting,,Joint Partner Marketing
+GRGDVP,Mobile,Foundational,,Mobile Encryption
+GRHJGG,Delivery,Foundational,,Low Code / Accelerated Development
+GRWNPG,Pharma,Health Care,Life Sciences,Medical Affairs 
+GSBVTB,Order,Media,Communications,Commerce Operations
+GSJKMC,Medical Devices,Health Care,Life Sciences,Supply Chain Planning [USE MANUFACTURING/RCG CAPABILITY DOMAIN]
+GTHJSM,Planning,Manufacturing,Semiconductor,Backlog Management
+GXZWRZ,Production,Manufacturing,Semiconductor,Production Support
+GYBHJK,Security,Foundational,,Protection
+GZWAXR,IoT,Foundational,,IoT Rules Engine
+HAHMMQ,Commodity Portfolio Management,Energy - Utilities,,Commodity Forecasting
+HFZPHJ,Operations Management,Energy - Utilities,,Reliability Assessment Analysis
+HGJGAV,Provider,Health Care,Life Sciences,Clinical Workflow Support
+HGVYNS,Order,Media,Communications,Order Management and Orchestration
+HHXWTF,Pharma,Health Care,Life Sciences,Alliance Management
+BRCSYD,Field Service Management,Communications,Media,Field Service Analysis and Planning (Field Service)
+HKQCJP,Marketing,Core,,Direct Marketing (owned)
+HKRSTH,Marketing,Core,,Preference & Privacy Management
+HMRWNU,Partner Management,Supporting,,Partner Development & Growth
+HNRSKS,Partner Management,Supporting,,Partner Order Management
+HPDCHN,Analytics and Insight,Foundational,,Mobile Analytics (MDM)
+HRZDRJ,Provider,Health Care,Life Sciences,Practice Management
+HUTBZK,Partner Management,Supporting,,Partner Recruitment & Onboarding
+HVWFFQ,Medical Devices,Health Care,Life Sciences,Key Opinion Leader (KOL) Management
+HWFQJS,Integration,Foundational,,Cloud Connectivity (SaaS / PaaS)
+NEPDVU,Field Service Management,Communications,Media,Field Worker Mobility (Field Service)
+HYBQTS,Medical Devices,Health Care,Life Sciences,Device Quality Management
+HZPUPL,Production,Manufacturing,Semiconductor,Work In Progress (WIP) Tracking
+HZQLKB,UX_UI,Foundational,,Workflow / Process Automation
+JAAFWK,Banking,Financial Services,,Inquiries & Transactions Management
+JBXRKV,Data Management,Foundational,,Data Integration & Interoperability
+JEESBR,Analytics and Insight,Foundational,,Self Service Analytics
+JEGXPK,Health Plans (Payer),Health Care,Life Sciences,Employer Administration and Health
+JFPTPM,Medical Devices,Health Care,Life Sciences,Patient Consumer Engagement
+JFYLWX,Finance,Manufacturing,Semiconductor,Rebate Management
+JGFCLD,UX_UI,Foundational,,Application Design & Configuration
+JGJETQ,IoT,Foundational,,IoT Device Management
+JGQBBF,Provider,Health Care,Life Sciences,Community-based Care
+JJFMCS,Common,Financial Services,,Cross Selling
+JJKWQA,Integration,Foundational,,Messaging Queues
+JLHXNR,Provider,Health Care,Life Sciences,Population Health
+JMAXKX,Order,Core,,Order Capture
+JMKJFS,Wealth Management,Financial Services,,Wealth Onboarding
+JRSYKH,Data Management,Foundational,,Data Storage & Operations
+JSSDQF,Marketing,Core,,Marketing Analytics
+JVWTHX,Field Service Management,Core,,Field Inventory & Replenishment Mgmt
+JWBCHP,Wholesale Asset Management,Financial Services,,Whitespace  Management & Recommendations
+VQHFBZ,Field Service Management,Communications,Media,Install Base & Preventative Maintenance (Field Service)
+JXPTXT,Analytics and Insight,Foundational,,Usage Analytics
+JZAGUS,Billing,Core,,Billing Management
+KBXZXX,Config Price Quote,Core,,Subscription Management
+KETGQZ,Marketing,Media,Communications,Content Lifecycle Management
+KHUXMD,Delivery,Media,Communications,Channel Delivery Processes
+KMCPJQ,Insurance,Financial Services,,Customer Advice
+KRXJWS,Institutional Asset Management,Financial Services,,Client/Consultant Engagement
+KTHXQL,Wealth Management,Financial Services,,Wealth Portfolio Management
+KTQFNK,Finance,Manufacturing,Semiconductor,CAPEX Planning
+KUQUTK,Collaboration,Foundational,,Contextual Collaboration
+KVACVJ,Support,Manufacturing,Semiconductor,Tapeout Support
+KWQPPT,Investment Banking & Markets,Financial Services,,Client Servicing
+KXAMKB,Product Management,Manufacturing,Semiconductor,Portfolio Management
+KXMQZA,Supply Chain Management,Manufacturing,Semiconductor,Demand Supply Operations
+KYEPDQ,Pharma,Health Care,Life Sciences,Research Operations
+KYFTJB,Artificial Intelligence,Foundational,,Predictions / Recommendations
+KYGEAP,Data Management,Foundational,,Data Strategy
+KYRSUW,Pharma,Health Care,Life Sciences,Patient Engagement 
+KYZFAA,Sales,Core,,Territory Management
+KZPUBF,Marketing,Media,Communications,Audience Segmentation & Activation
+LBWKWR,Compliance Management,Energy - Utilities,,Enterprise Records Management
+LDTQMX,Sales,Core,,Inside Sales Management
+LFDHGU,Provider,Health Care,Life Sciences,Care Mgmt & Coordination
+LHHSXA,Support,Manufacturing,Semiconductor,Design/Development Kit
+LKHMPA,Operations Management,Energy - Utilities,,Rates Management
+LPUQZM,Wealth Management,Financial Services,,Wealth Reviews & Insights
+LRQQFC,Real Estate & Facility Management,Energy - Utilities,,Real Estate Owned and Lease Management
+LURMEE,Data Management,Foundational,,Data Architecture
+LVMEYA,Operations Management,Energy - Utilities,,Real-time Commodity Loss (leak & theft) Detection
+LXXKYG,Mobile,Foundational,,Push Notifications
+LYGWBW,Pharma,Health Care,Life Sciences,Market Access
+MBMWHY,Investment Banking & Markets,Financial Services,,Compliance Review
+MCQVFB,Wholesale Asset Management,Financial Services,,Firm & Advisor Servicing
+MCUADD,Medical Devices,Health Care,Life Sciences,Patient Support Programs (including connected device support)
+MELQWV,Common,Financial Services,,Customer 360
+MEZKKJ,Collaboration,Foundational,,Text Conferencing
+MEZPCD,Artificial Intelligence,Foundational,,AI Vision / Image Recognition
+MGKAVR,Marketing,Media,Communications,Journey Management
+MJPSVS,Integration,Foundational,,Electronic Data Interchange (EDI)
+MNHWSF,Integration,Foundational,,Microservices Build and Deployment
+MNKZHR,Analytics and Insight,Foundational,,Data Discovery (What If)
+MRFGXN,Provider,Health Care,Life Sciences,Revenue Cycle Management
+MSVSAV,Procurement and Logistics Management,Energy - Utilities,,Fleet Management
+DYATNZ,Billing,Communications,Media,"Invoice Management (Online Charging, Billing & Subscription)"
+MUZBVU,Analytics and Insight,Media,Communications,Measurements and Analytics
+MYVVEH,Product Management,Manufacturing,Semiconductor,Engineering Bill of Material
+MZBKGL,Pharma,Health Care,Life Sciences,MarKeting
+NAZCYM,Insurance,Financial Services,,Policy Administration
+NBGUNZ,Service Management,Core,,Training & Onboarding
+WNZVMG,Sales,Communications,Media,Lead Management (Prospect Management / Lead Nurturing)
+NEVZZJ,Analytics and Insight,Foundational,,"Analytical Reporting (Historical, Descriptive & Diagnostic Analytics)"
+NGBSMM,Pharma,Health Care,Life Sciences,R & D
+NGHZPZ,Collaboration,Foundational,,Audio Conferencing
+NHAXSQ,Marketing,Core,,Marketing Strategy and Planning
+NJWFPF,Integration,Foundational,,API Management / Gateway
+NKMEEN,Provider,Health Care,Life Sciences,PhiLanthropy
+NMKTWY,UX_UI,Foundational,,"Activity, Alert, Event, Appointment"
+NNDVXD,Delivery,Foundational,,Automated Code Promotion (CI / CD)
+NPHVML,Sales,Core,,Opportunity Management
+NQCGGB,Product Management,Manufacturing,Semiconductor,Part Management
+NRGZUY,Analytics and Insight,Foundational,,Operational Metrics Reporting
+NRSTDF,Service Management,Core,,Omni-Channel Contact Center
+NSVSZZ,Marketing,Core,,Paid Marketing (ads)
+NTKHNF,Sales,Media,Communications,Rights and Content Sales
+NTSSQG,Provider,Health Care,Life Sciences,Network Engagement
+NUAZQR,Customer Programs Management,Energy - Utilities,,Program Eligibility & Enrollment
+NUJPAE,Medical Devices,Health Care,Life Sciences,Sales Analytics Insights [USE SALES CAPABILITY DOMAIN]
+PBKLHB,Provider,Health Care,Life Sciences,Patient Experience
+PBTTGB,Sales,Media,Communications,Cross Media Sales
+PCLENJ,Insurance,Financial Services,,Producer Management
+PEBNVR,Health Plans (Payer),Health Care,Life Sciences,Enrollment
+PERCZU,Data Management,Foundational,,Document & Content Management
+PEVHVQ,Provider,Health Care,Life Sciences,Employee Engagement
+PGHFZD,Artificial Intelligence,Foundational,,AI Driven Discovery
+PGZGQA,Delivery,Foundational,,Infrastructure Deploy / Mgmt.
+PHPQMD,Data Management,Foundational,,Data Lifecycle Management
+PKXBDF,Billing,Core,,Invoice Management
+PNCNHT,Product Management,Manufacturing,Semiconductor,Customer Part Management
+PNSJYR,Finance,Manufacturing,Semiconductor,Product Cost Analysis
+PPAYFT,Sales,Core,,Contract Lifecycle Management
+PQJNAW,Institutional Asset Management,Financial Services,,Consultant Relations Management
+PQSXBP,Delivery,Foundational,,Polyglot Language Support
+PRRPRR,Supply Chain Management,Manufacturing,Semiconductor,Inventory Management
+PRXHKB,Health Plans (Payer),Health Care,Life Sciences,Implementation
+PSWBKZ,UX_UI,Foundational,,Federated Search
+PVKVFK,Common,Financial Services,,Cross-Channel Collaboration
+PWVYRU,Sales,Core,,Product Management (Basic)
+PWYWVB,Provider,Health Care,Life Sciences,Reporting & Analytics
+PYDUBD,Sales,Core,,Sales Enablement
+PYGQWC,Collaboration,Foundational,,Video Conferencing
+PZQZJC,Operations Management,Energy - Utilities,,Partner Management
+QCTEFK,Medical Devices,Health Care,Life Sciences,Clinical Studies Management
+QDJWAT,UX_UI,Foundational,,Email / WebApp Integration
+QDVRXH,Artificial Intelligence,Foundational,,Deep Learning
+QDYCMD,Pharma,Health Care,Life Sciences,Supply Chain Planning 
+QEAKRC,Pharma,Health Care,Life Sciences,Pharma Safety & Efficacy
+QECLWH,Order,Core,,Inventory Management
+QHFGKQ,Insurance,Financial Services,,Insurance Underwriting
+QJQJWV,Integration,Foundational,,Business Process Mgmt.
+QKGDVY,Compliance Management,Energy - Utilities,,Compliance & Audit
+QKURGA,Product Management,Manufacturing,Semiconductor,New Product Demand Analysis
+QKURKG,Sales,Core,,Deal Support Requests
+QMGHTG,Data Management,Foundational,,Data Quality
+QNPVTR,Medical Devices,Health Care,Life Sciences,eDetailing [USE MANUFACTURING/RCG CAPABILITY DOMAIN]
+QPCHUV,Mobile,Foundational,,Mobile Identity
+QPHWUK,Security,Media,Communications,Security and Compliance Management
+QRDRBN,Insurance,Financial Services,,Distribution Channel Management
+QTSLMX,Customer Programs Management,Energy - Utilities,,Program Delivery Management
+SZGGPN,Sales,Communications,Media,Lead Nurturing
+QVVQUK,Asset,Energy - Utilities,,Asset Inspection
+QWJJHJ,Service Management,Core,,Case Teaming
+QXVXTJ,Insurance,Financial Services,,Claims Management
+RBMLMR,Artificial Intelligence,Foundational,,Prescriptive Analytics / Intelligence
+REJCVU,Marketing,Core,,Journey Management
+RGFSVP,Field Service Management,Core,,Operational Schedule Management
+RJYDYT,Product Management,Manufacturing,Semiconductor,Product Catalog Management
+RKSYJQ,Wholesale Asset Management,Financial Services,,Advisor Engagement
+RQAKZR,Partner Management,Media,Communications,Content Sales Partner Management
+RQGLXA,Banking,Financial Services,,Banking Leads & Referrals
+RQNSMV,Order,Core,,Shipping and  Payment  Methods
+RRQFEZ,Provider,Health Care,Life Sciences,Outreach & Marketing
+RSCUJR,Safety & Environmental Management,Energy - Utilities,,Safety Management
+RSXGBF,Sales,Core,,Contact Management
+RVEFJZ,Operations Management,Energy - Utilities,,Commodity Supply Control
+RVFDBF,Artificial Intelligence,Foundational,,Voice Enabled Applications
+RWJHPQ,IoT,Foundational,,IoT Proxy Gateway
+RWNFBZ,Data Management,Foundational,,"Data Warehousing, Business Intelligence & Analytics"
+RXZCNY,Insurance,Financial Services,,Actuarial & Financial Risk
+YMASSC,Artificial Intelligence,Communications,Media,Next Best Action
+SHCYVM,Delivery,Foundational,,Headless Microservice Support
+SHZEPG,Production,Media,Communications,Post Production Processing
+SJBSBQ,Insurance,Financial Services,,Enrollee Management
+SNYEXG,Integration,Foundational,,Federated File Integration
+SRCGGR,UX_UI,Foundational,,UI Mashups (Internal / External)
+SRGZGZ,Data Management,Foundational,,Master Data Management (MDM)
+SRXLXE,Support,Manufacturing,Semiconductor,Design In Support
+SSNWKC,Analytics and Insight,Media,Communications,Data Management and Decision Processing
+SSVRCF,Medical Devices,Health Care,Life Sciences,Order & Contract Management [USE SALES CAPABILITY DOMAIN]
+STBEQC,Planning Management,Energy - Utilities,,Investment Planning & Budgeting
+STFWTT,Marketing,Core,,Lead Generation
+SUBVHC,Delivery,Foundational,,Automated Upgrade Mgmt.
+SUXZRM,Procurement and Logistics Management,Energy - Utilities,,Purchase Order Management
+SWGMFD,Product Management,Manufacturing,Semiconductor,Specification Control
+SYRHDV,Planning,Manufacturing,Semiconductor,Demand Planning
+SZBHQQ,Sales,Core,,Sales Analytics
+YQCANZ,Order,Communications,Media,Omnichannel Shopping Experience (Commerce Self Service)
+SZWXMJ,Integration,Foundational,,Change Data Capture
+TCHFTP,Service Management,Core,,Service Quality & Supervision Analytics
+UFGVNC,Field Service Management,Communications,Media,Operational Schedule Management (Field Service)
+TEZFJY,Supply Chain Management,Manufacturing,Semiconductor,Partner Relationship Management
+TGLBHA,Medical Devices,Health Care,Life Sciences,Consumer Support
+FAJKNG,Sales,Communications,Media,Opportunity Management
+TJTZFZ,Health Plans (Payer),Health Care,Life Sciences,Producer Management
+TKEHTM,Investment Banking & Markets,Financial Services,,Deal Execution
+TMPYNG,Integration,Foundational,,Batch/ Bulk / ETL
+TPVQFH,Common,Financial Services,,Household & Relationship Management
+TQQWHY,Provider,Health Care,Life Sciences,"Quality, Risk & Compliance"
+TRFSBU,Insurance,Financial Services,,RFP Management
+TUARTK,Integration,Foundational,,Data Virtualization
+TUMWAJ,Medical Devices,Health Care,Life Sciences,Account Segmentation and Planning [USE FOUNDATION CAPABILITY DOMAIN] 
+TVWRQM,Health Plans (Payer),Health Care,Life Sciences,Product Management
+TWQRZJ,Data Management,Foundational,,Metadata Management
+TWUSRV,Field Service Management,Core,,Resource Management
+TWWZMX,Service,Media,Communications,Subscriber Care
+UDLFYT,Medical Devices,Health Care,Life Sciences,Distribution Channel Management (Indirect Field Sales)
+UFGDKK,Sales Operations,Manufacturing,Semiconductor,"Configure, Price, Quote"
+TENNSR,Sales,Communications,Media,Order Capture
+UGYUCB,Analytics and Insight,Foundational,,Dashboards Design & Configuration
+UHSNGU,Service Management,Core,,Unified Agent Experience
+UJLPMP,Collaboration,Foundational,,Content Collaboration
+UKYVAL,Insurance,Financial Services,,Policy Issuance
+ULVFFE,Asset,Energy - Utilities,,Asset Portfolio Management
+UNHDRD,Data Management,Foundational,,Data Policies and Compliance
+UNRMCZ,Health Plans (Payer),Health Care,Life Sciences,Sales & Underwriting
+UPZYQM,Planning Management,Energy - Utilities,,"Transmission, Pipeline and Storage Planning"
+UUPHVC,Service,Media,Communications,Commerce Customer Care
+UUYDNV,Product Management,Manufacturing,Semiconductor,IP/License Management
+UVBSRR,Wealth Management,Financial Services,,Treasury Management
+UXAVGA,Data Management,Foundational,,Data Resiliency (HA/DR)
+UXEBKA,Operations Management,Energy - Utilities,,Unmetered Commodity Management
+UZTFEF,Service Management,Core,,Service Contract Mgmt & Entitlement
+VANVBB,Operations Management,Energy - Utilities,,Construction Management
+VEGCTT,Data Management,Foundational,,Data Modeling & Design
+VGAXFH,Sales,Core,,Compensation Management
+VMPGQN,Compliance Management,Energy - Utilities,,Regulatory Management
+VMRNNX,Banking,Financial Services,,Banking Application Management
+QUJEYX,Sales,Communications,Media,Order Management
+VQACDQ,Artificial Intelligence,Communications,Media,Predictive Analytics
+VSPHTM,Health Plans (Payer),Health Care,Life Sciences,Service & Inquiry
+VTZKXE,Common,Financial Services,,Risk & Compliance Management
+CYBDUU,Product Management,Communications,Media,Product Catalog
+VWCSGJ,Integration,Foundational,,Real-Time API Integration
+VWHTSE,Sales Operations,Manufacturing,Semiconductor,Customer Visitation
+VWQYEG,Asset,Energy - Utilities,,Asset Traceability Management
+VXETQB,Sales,Communications,Media,Prospect Management
+VZYJDZ,Asset,Energy - Utilities,,Corrective Maintenance
+WBGMRG,Field Service Management,Core,,Work Order Management
+WCTMZZ,Service Management,Core,,Case Management
+WFJTKF,Safety & Environmental Management,Energy - Utilities,,Environmental Management
+WGVNFN,Marketing,Core,,Content Management
+HXCXBT,Field Service Management,Communications,Media,Resource Management (Field Service)
+WKMPNF,Order,Core,,Search / Merchandising
+WMACRP,Field Service Management,Core,,Field Worker Mobility
+WMFPBM,Banking,Financial Services,,Third Party Distribution
+WNXWHQ,Production,Media,Communications,Release Management Lifecycle
+DKAFZQ,Sales,Communications,Media,Retail Experience
+WPNNZU,Pharma,Health Care,Life Sciences,CoMmercial Operations
+WQQDLJ,Product Management,Manufacturing,Semiconductor,End of Life Processing
+WRCZFU,Pharma,Health Care,Life Sciences,Clinical Operations
+WRLRXP,Investment Banking & Markets,Financial Services,,Centers of Influence Management
+WSMKHR,Common,Financial Services,,Appointment Management
+WTKFRF,Production,Media,Communications,Pre-Production Management
+WWJUSZ,Real Estate & Facility Management,Energy - Utilities,,Facility Planning
+WXMGEP,Config Price Quote,Core,,Product Catalog Management
+ZYZADN,Sales,Communications,Media,Retention
+XAFHYY,Health Plans (Payer),Health Care,Life Sciences,Home Health Services
+XDQHJX,Wholesale Asset Management,Financial Services,,Funds Performance Management
+XFUVBJ,Medical Devices,Health Care,Life Sciences,Healthcare Provider Support
+XKWTYJ,Service,Media,Communications,Subscriber Experience
+XMELPB,Order,Core,,Recommendations & Experience
+XMQUDJ,Service Management,Core,,Feedback/ Surveys/ VOC
+XNPBAH,Operations Management,Energy - Utilities,,Commodity Usage Capture
+XQZZTX,Health Plans (Payer),Health Care,Life Sciences,Network Management
+XRGLSR,Operations Management,Energy - Utilities,,Event Management
+XTBNJE,Finance,Manufacturing,Semiconductor,Resource Planning
+XUZARS,Security,Foundational,,Detection
+XVJHAE,Mobile,Foundational,,Mobile Device Management (MDM)
+XVJWWR,Wealth Management,Financial Services,,Practice Management
+XVYNGP,Provider,Health Care,Life Sciences,Patient Access
+XWFHVY,Field Service Management,Communications,Media,RMA / Depot Repair (Field Service)
+XWWEBJ,Integration,Foundational,,Computer Telephony Integration (CTI)
+XZNRCX,Common,Financial Services,,Financial Product Management
+YAHZGS,Institutional Asset Management,Financial Services,,Institutional Account Management
+YBNVBQ,Health Plans (Payer),Health Care,Life Sciences,Renewal Management
+YBYPKC,Product Management,Manufacturing,Semiconductor,Joint Development (External)
+YDSNMJ,Analytics and Insight,Foundational,,Analytics Apps
+YFRJTZ,Data Management,Foundational,,"Taxonomies, Reference & Master Data"
+YGNJQZ,Service Management,Core,,Knowledge Management
+YGTNAQ,Marketing,Media,Communications,Fan Experience
+YJPRAM,Artificial Intelligence,Foundational,,Next Best Actions / Recommendations
+DATKPH,Sales,Communications,Media,Sales Management
+YPXAJU,Wealth Management,Financial Services,,Wealth Research & Analysis
+JXFJLW,Service,Communications,Media,Self Service (Self-Care)
+EBGSVA,Sales,Communications,Media,Subscription Management (Customer & Subscription Management)
+YSMQRB,Medical Devices,Health Care,Life Sciences,Market Access
+YUKNRD,Order,Media,Communications,E-Commerce Experience
+YXFVNV,Health Plans (Payer),Health Care,Life Sciences,Medical Management
+ZAEHQB,Security,Foundational,,Identification
+ZCCFCL,Product Management,Manufacturing,Semiconductor,Project Management
+MTESVY,Sales,Communications,Media,Telesales & Inbound Sales
+ZDDPEP,Banking,Financial Services,,Advice & Guidance
+ZEFAGH,Product Management,Manufacturing,Semiconductor,Product Configuration
+ZGAYZG,Service Management,Core,,Remote Monitoring & Proactive Service
+ZGDKUC,Config Price Quote,Core,,Guided Solution Configuration
+ZGVXAQ,Common,Financial Services,,Client Onboarding
+ZNZKMD,Pharma,Health Care,Life Sciences,Quality Management Operations 
+ZPCWBW,Medical Devices,Health Care,Life Sciences,Field Service [USE SERVICE CAPABILITY DOMAIN]
+ZQUSVU,Artificial Intelligence,Foundational,,AI Model Bias
+ZSKHLM,Sales,Core,,Guided / Solution Selling
+ZSYESV,Delivery,Media,Communications,Channel Platforms Integration
+ZVJUJH,UX_UI,Foundational,,User Personalization
+ZVZACW,Service Management,Core,,Self Service
+ZXAQDP,Service Management,Core,,Predictive Service
+GAFXAB,Field Service Management,Communications,Media,Work Order Management (Field Service)
+ZZCUQH,Production,Manufacturing,Semiconductor,Prototype Management
+ZZNHDY,Billing,Media,Communications,Subscriber Billing and Charging
