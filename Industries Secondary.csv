@@ -1,0 +1,166 @@
+uid,domain,industry_primary,industry_secondary,title
+ADUAPZ,Returns,Manufacturing,Semiconductor,Return Material Management
+AFFNSU,Sales,Financial Services,Institutional Asset Management,Account Servicing
+AHCCXT,Pharma,Health Care,Life Sciences,HLS Pharma(Rx) - ManuFacturing
+HKNJJV,Sales,Communications,Media,Account Management
+ZCDQZK,Billing,Communications,Media,Billing Management (Billing Inquiries)
+AKMZWD,Marketing,Communications,Media,Campaigns & Journey Management
+AVHBEU,Medical Devices,Health Care,Life Sciences,Device Engineering
+AXNMFK,Sales,Media,Communications,Sales Enablement
+BCDDPW,Service,Communications,Media,Case Management (Trouble Management)
+APXEXA,Service,Communications,Media,Case Teaming (Agent-Assisted Customer Service)
+BKXJMP,Pharma,Health Care,Life Sciences,Sales Operations
+AJSADF,Sales,Communications,Media,Contact Management
+BXANJQ,Sales,Media,Communications,Ad-Sales Partner Management
+BZEUWH,Medical Devices,Health Care,Life Sciences,Direct Field Sales [USE SALES CAPABILITY DOMAIN]
+CGSVWL,Pharma,Health Care,Life Sciences,ReTail
+CHWUWA,Finance,Manufacturing,Semiconductor,Product Cost Allocation
+CLPAWQ,Health Plans (Payer),Health Care,Life Sciences,Pricing and Quoting
+CWVMDC,Production,Media,Communications,Production Management
+CXALRA,Health Plans (Payer),Health Care,Life Sciences,Claims Management
+BKTAAN,Sales,Communications,Media,Contract Lifecycle Management
+WHGVWE,Config Price Quote,Communications,Media,CPQ - Pricing Management
+VVGHUE,Config Price Quote,Communications,Media,CPQ - Quote Management
+DUMADQ,Quality ,Manufacturing,Semiconductor,Quality Management
+WXYDDB,Billing,Communications,Media,Credit & Collections (Receivable Management)
+SAHRGC,Sales,Communications,Media,Cross/Up Sell
+ECJGUT,Sales,Communications,Media,Door to Door and Mobile Sales
+EPSRYA,Provider,Health Care,Life Sciences,Research & Innovation
+THMWVW,Order,Communications,Media,E-Commerce
+FFMDMW,Subscriptions,Media,Communications,Identity and Entitlements
+FJBDFP,Sales,Media,Communications,Brand Licensing
+FJNGEX,Common,Media,Communications,Customer 360 Interactions
+FNJXLC,Health Plans (Payer),Health Care,Life Sciences,Member Engagement
+FSAGTV,Support,Manufacturing,Semiconductor,Training/Certification
+FZPCBQ,Health Plans (Payer),Health Care,Life Sciences,Appeals & Grievances 
+YQBHAK,Field Service Management,Communications,Media,Field Inventory & Replenishment Mgmt (Field Service)
+GATGAA,Product Management,Manufacturing,Semiconductor,Product Life Cycle Management
+GGSGSH,Sales,Manufacturing,Semiconductor,Order Management
+GNAHZP,Delivery,Media,Communications,Distribution Processes
+GRWNPG,Pharma,Health Care,Life Sciences,Medical Affairs 
+GSBVTB,Order,Media,Communications,Commerce Operations
+GSJKMC,Medical Devices,Health Care,Life Sciences,Supply Chain Planning [USE MANUFACTURING/RCG CAPABILITY DOMAIN]
+GTHJSM,Planning,Manufacturing,Semiconductor,Backlog Management
+GXZWRZ,Production,Manufacturing,Semiconductor,Production Support
+HGJGAV,Provider,Health Care,Life Sciences,Clinical Workflow Support
+HGVYNS,Order,Media,Communications,Order Management and Orchestration
+HHXWTF,Pharma,Health Care,Life Sciences,Alliance Management
+BRCSYD,Field Service Management,Communications,Media,Field Service Analysis and Planning (Field Service)
+HRZDRJ,Provider,Health Care,Life Sciences,Practice Management
+HVWFFQ,Medical Devices,Health Care,Life Sciences,Key Opinion Leader (KOL) Management
+NEPDVU,Field Service Management,Communications,Media,Field Worker Mobility (Field Service)
+HYBQTS,Medical Devices,Health Care,Life Sciences,Device Quality Management
+HZPUPL,Production,Manufacturing,Semiconductor,Work In Progress (WIP) Tracking
+JEGXPK,Health Plans (Payer),Health Care,Life Sciences,Employer Administration and Health
+JFPTPM,Medical Devices,Health Care,Life Sciences,Patient Consumer Engagement
+JFYLWX,Finance,Manufacturing,Semiconductor,Rebate Management
+JGQBBF,Provider,Health Care,Life Sciences,Community-based Care
+JLHXNR,Provider,Health Care,Life Sciences,Population Health
+VQHFBZ,Field Service Management,Communications,Media,Install Base & Preventative Maintenance (Field Service)
+KETGQZ,Marketing,Media,Communications,Content Lifecycle Management
+KHUXMD,Delivery,Media,Communications,Channel Delivery Processes
+KTQFNK,Finance,Manufacturing,Semiconductor,CAPEX Planning
+KVACVJ,Support,Manufacturing,Semiconductor,Tapeout Support
+KXAMKB,Product Management,Manufacturing,Semiconductor,Portfolio Management
+KXMQZA,Supply Chain Management,Manufacturing,Semiconductor,Demand Supply Operations
+KYEPDQ,Pharma,Health Care,Life Sciences,Research Operations
+KYRSUW,Pharma,Health Care,Life Sciences,Patient Engagement 
+KZPUBF,Marketing,Media,Communications,Audience Segmentation & Activation
+LFDHGU,Provider,Health Care,Life Sciences,Care Mgmt & Coordination
+LHHSXA,Support,Manufacturing,Semiconductor,Design/Development Kit
+LYGWBW,Pharma,Health Care,Life Sciences,Market Access
+MCUADD,Medical Devices,Health Care,Life Sciences,Patient Support Programs (including connected device support)
+MGKAVR,Marketing,Media,Communications,Journey Management
+MRFGXN,Provider,Health Care,Life Sciences,Revenue Cycle Management
+DYATNZ,Billing,Communications,Media,"Invoice Management (Online Charging, Billing & Subscription)"
+MUZBVU,Analytics and Insight,Media,Communications,Measurements and Analytics
+MYVVEH,Product Management,Manufacturing,Semiconductor,Engineering Bill of Material
+MZBKGL,Pharma,Health Care,Life Sciences,MarKeting
+WNZVMG,Sales,Communications,Media,Lead Management (Prospect Management / Lead Nurturing)
+NGBSMM,Pharma,Health Care,Life Sciences,R & D
+NKMEEN,Provider,Health Care,Life Sciences,PhiLanthropy
+NQCGGB,Product Management,Manufacturing,Semiconductor,Part Management
+NTKHNF,Sales,Media,Communications,Rights and Content Sales
+NTSSQG,Provider,Health Care,Life Sciences,Network Engagement
+NUJPAE,Medical Devices,Health Care,Life Sciences,Sales Analytics Insights [USE SALES CAPABILITY DOMAIN]
+PBKLHB,Provider,Health Care,Life Sciences,Patient Experience
+PBTTGB,Sales,Media,Communications,Cross Media Sales
+PEBNVR,Health Plans (Payer),Health Care,Life Sciences,Enrollment
+PEVHVQ,Provider,Health Care,Life Sciences,Employee Engagement
+PNCNHT,Product Management,Manufacturing,Semiconductor,Customer Part Management
+PNSJYR,Finance,Manufacturing,Semiconductor,Product Cost Analysis
+PRRPRR,Supply Chain Management,Manufacturing,Semiconductor,Inventory Management
+PRXHKB,Health Plans (Payer),Health Care,Life Sciences,Implementation
+PWYWVB,Provider,Health Care,Life Sciences,Reporting & Analytics
+QCTEFK,Medical Devices,Health Care,Life Sciences,Clinical Studies Management
+QDYCMD,Pharma,Health Care,Life Sciences,Supply Chain Planning 
+QEAKRC,Pharma,Health Care,Life Sciences,Pharma Safety & Efficacy
+QKURGA,Product Management,Manufacturing,Semiconductor,New Product Demand Analysis
+QNPVTR,Medical Devices,Health Care,Life Sciences,eDetailing [USE MANUFACTURING/RCG CAPABILITY DOMAIN]
+QPHWUK,Security,Media,Communications,Security and Compliance Management
+SZGGPN,Sales,Communications,Media,Lead Nurturing
+RJYDYT,Product Management,Manufacturing,Semiconductor,Product Catalog Management
+RQAKZR,Partner Management,Media,Communications,Content Sales Partner Management
+RRQFEZ,Provider,Health Care,Life Sciences,Outreach & Marketing
+YMASSC,Artificial Intelligence,Communications,Media,Next Best Action
+SHZEPG,Production,Media,Communications,Post Production Processing
+SRXLXE,Support,Manufacturing,Semiconductor,Design In Support
+SSNWKC,Analytics and Insight,Media,Communications,Data Management and Decision Processing
+SSVRCF,Medical Devices,Health Care,Life Sciences,Order & Contract Management [USE SALES CAPABILITY DOMAIN]
+SWGMFD,Product Management,Manufacturing,Semiconductor,Specification Control
+SYRHDV,Planning,Manufacturing,Semiconductor,Demand Planning
+YQCANZ,Order,Communications,Media,Omnichannel Shopping Experience (Commerce Self Service)
+UFGVNC,Field Service Management,Communications,Media,Operational Schedule Management (Field Service)
+TEZFJY,Supply Chain Management,Manufacturing,Semiconductor,Partner Relationship Management
+TGLBHA,Medical Devices,Health Care,Life Sciences,Consumer Support
+FAJKNG,Sales,Communications,Media,Opportunity Management
+TJTZFZ,Health Plans (Payer),Health Care,Life Sciences,Producer Management
+TQQWHY,Provider,Health Care,Life Sciences,"Quality, Risk & Compliance"
+TUMWAJ,Medical Devices,Health Care,Life Sciences,Account Segmentation and Planning [USE FOUNDATION CAPABILITY DOMAIN] 
+TVWRQM,Health Plans (Payer),Health Care,Life Sciences,Product Management
+TWWZMX,Service,Media,Communications,Subscriber Care
+UDLFYT,Medical Devices,Health Care,Life Sciences,Distribution Channel Management (Indirect Field Sales)
+UFGDKK,Sales Operations,Manufacturing,Semiconductor,"Configure, Price, Quote"
+TENNSR,Sales,Communications,Media,Order Capture
+UNRMCZ,Health Plans (Payer),Health Care,Life Sciences,Sales & Underwriting
+UUPHVC,Service,Media,Communications,Commerce Customer Care
+UUYDNV,Product Management,Manufacturing,Semiconductor,IP/License Management
+QUJEYX,Sales,Communications,Media,Order Management
+VQACDQ,Artificial Intelligence,Communications,Media,Predictive Analytics
+VSPHTM,Health Plans (Payer),Health Care,Life Sciences,Service & Inquiry
+CYBDUU,Product Management,Communications,Media,Product Catalog
+VWHTSE,Sales Operations,Manufacturing,Semiconductor,Customer Visitation
+VXETQB,Sales,Communications,Media,Prospect Management
+HXCXBT,Field Service Management,Communications,Media,Resource Management (Field Service)
+WNXWHQ,Production,Media,Communications,Release Management Lifecycle
+DKAFZQ,Sales,Communications,Media,Retail Experience
+WPNNZU,Pharma,Health Care,Life Sciences,CoMmercial Operations
+WQQDLJ,Product Management,Manufacturing,Semiconductor,End of Life Processing
+WRCZFU,Pharma,Health Care,Life Sciences,Clinical Operations
+WTKFRF,Production,Media,Communications,Pre-Production Management
+ZYZADN,Sales,Communications,Media,Retention
+XAFHYY,Health Plans (Payer),Health Care,Life Sciences,Home Health Services
+XFUVBJ,Medical Devices,Health Care,Life Sciences,Healthcare Provider Support
+XKWTYJ,Service,Media,Communications,Subscriber Experience
+XQZZTX,Health Plans (Payer),Health Care,Life Sciences,Network Management
+XTBNJE,Finance,Manufacturing,Semiconductor,Resource Planning
+XVYNGP,Provider,Health Care,Life Sciences,Patient Access
+XWFHVY,Field Service Management,Communications,Media,RMA / Depot Repair (Field Service)
+YBNVBQ,Health Plans (Payer),Health Care,Life Sciences,Renewal Management
+YBYPKC,Product Management,Manufacturing,Semiconductor,Joint Development (External)
+YGTNAQ,Marketing,Media,Communications,Fan Experience
+DATKPH,Sales,Communications,Media,Sales Management
+JXFJLW,Service,Communications,Media,Self Service (Self-Care)
+EBGSVA,Sales,Communications,Media,Subscription Management (Customer & Subscription Management)
+YSMQRB,Medical Devices,Health Care,Life Sciences,Market Access
+YUKNRD,Order,Media,Communications,E-Commerce Experience
+YXFVNV,Health Plans (Payer),Health Care,Life Sciences,Medical Management
+ZCCFCL,Product Management,Manufacturing,Semiconductor,Project Management
+MTESVY,Sales,Communications,Media,Telesales & Inbound Sales
+ZEFAGH,Product Management,Manufacturing,Semiconductor,Product Configuration
+ZNZKMD,Pharma,Health Care,Life Sciences,Quality Management Operations 
+ZPCWBW,Medical Devices,Health Care,Life Sciences,Field Service [USE SERVICE CAPABILITY DOMAIN]
+ZSYESV,Delivery,Media,Communications,Channel Platforms Integration
+GAFXAB,Field Service Management,Communications,Media,Work Order Management (Field Service)
+ZZCUQH,Production,Manufacturing,Semiconductor,Prototype Management
+ZZNHDY,Billing,Media,Communications,Subscriber Billing and Charging
