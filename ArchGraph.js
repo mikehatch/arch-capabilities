@@ -50,7 +50,7 @@ const typeDefs = `
 
 const schema = neo4jgraphqljs.makeAugmentedSchema({typeDefs});
 
-const server = new ApolloServer.ApolloServer({schema, context: {driver}, playground:true});
+const server = new ApolloServer.ApolloServer({schema, context: {driver}, introspection: true, playground:true});
 
 
 // router.get('/', function(req, res) {
